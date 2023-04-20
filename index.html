@@ -121,32 +121,7 @@
 		21.04.23	mit Blau Salvtage in der Villa Stucki, Bern
 
             </div>
-
-            <div class="img" onclick="changeImg2()">
-                <img id="slideshow" />
-            </div>
         </header>
-
-        <script>
-
-            var imgs = ["fornow.jpg", "polymerization.jpg", "particles.jpg", "some_things.jpg", "tomorrow1.jpg", "tomorrow2.jpg", "tomorrow3.jpg"]
-            var c = 7;
-            var i = document.getElementById("slideshow");
-
-            var cc = 0;
-
-            function changeImg() {
-                var ccc = Math.floor(Math.random() * c)
-                i.src = imgs[ccc];
-                cc = ccc;
-            }
-
-            function changeImg2() {
-                cc += 1;
-                cc = cc % c;
-                console.log(cc);
-                i.src = imgs[cc];
-            }
         </script>
     </body>
 </html>

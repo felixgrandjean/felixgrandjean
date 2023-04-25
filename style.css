@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  padding: 20px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-family: Times New Roman, serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

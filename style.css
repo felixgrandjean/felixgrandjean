@@ -18,6 +18,11 @@ p {
   font-size: 12pt;
   color: #0303AB
 }
+p2 {
+  font-family: Garamond, serif; bold
+  font-size: 12pt;
+  color: #0303AB
+}
 
 img {
   width: 100%;

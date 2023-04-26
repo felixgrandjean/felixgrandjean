@@ -9,10 +9,14 @@
 
 h1 {
   font-family: Helvetica Neue, sans-serif;
+  font-size: 14pt;
+  color: #0303AB
 }
 
 p {
   font-family: Garamond, serif;
+  font-size: 12pt;
+  color: #0303AB
 }
 
 img {

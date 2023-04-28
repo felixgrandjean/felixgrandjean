@@ -28,6 +28,8 @@ p {
   font-size: 12pt;
   line-height: 1;
   color: #0303AB
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 p2 {
   font-family: Arial, sans-serif; italic

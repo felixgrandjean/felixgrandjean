@@ -39,3 +39,12 @@ img {
 body {
   cursor: url('trumpet_cursor.png'), auto;
 }
+  
+  a {
+  color: #0303AB;
+  text-decoration: italic;
+}
+
+a:hover {
+  color: red;
+}

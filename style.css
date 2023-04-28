@@ -48,7 +48,7 @@ body {
  
   a {
   color: #0303AB;
-  text-decoration: underline;
+  text-decoration: italic;
 }
 
 a:hover {

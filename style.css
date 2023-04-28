@@ -26,22 +26,16 @@ h1 {
 p {
   font-family: Arial, sans-serif;
   font-size: 12pt;
-  line-height: 1;
+  line-height: 1.5;
   color: #0303AB
     
 }
-
-p2 {
-  font-family: Arial, sans-serif; italic
-  font-size: 12pt;
-  color: #0303AB
 
 img {
   width: 10%;
   height: 10%;
 }
-  
-/* Import custom cursor image */
+
 body {
   cursor: url('trumpet_cursor.png'), auto;
 }

@@ -1,6 +1,7 @@
-.header {
-  padding: 50px;
-}	
+.header-image {
+  width: 18%;
+  height: auto;
+}
 
 .container {
   display: flex;
@@ -19,12 +20,6 @@ h1 {
   line-height: 2;
   color: #0303AB
 }
-
-h2 {
-  font-family: Garamond, serif;
-  font-size: 20pt;
-  line-height: 2;
-  color: #0303AB
 
 p {
   font-family: Arial, sans-serif;

@@ -11,7 +11,7 @@ header img {
 
 .column {
   flex: 1;
-  padding: 30px;
+  padding: 50px;
   box-sizing: border-box;
   max-width: 50%;
 }

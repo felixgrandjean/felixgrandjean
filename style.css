@@ -1,10 +1,3 @@
-header img {
-  width: 18%;
-  height: auto;
-  display: inline-block;
-  margin-right: 20px;
-}
-
 .container {
   display: flex;
 }

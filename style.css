@@ -30,6 +30,7 @@ p {
   color: #0303AB
     
 }
+
 p2 {
   font-family: Arial, sans-serif; italic
   font-size: 12pt;
@@ -39,6 +40,7 @@ img {
   width: 10%;
   height: auto;
 }
+  
 /* Import custom cursor image */
 body {
   cursor: url('trumpet_cursor.png'), auto;

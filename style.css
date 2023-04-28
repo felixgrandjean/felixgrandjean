@@ -10,12 +10,14 @@
 h1 {
   font-family: Garamond, serif;
   font-size: 16pt;
+  line-height: 2;
   color: #0303AB
 }
 
 p {
   font-family: Arial, sans-serif;
   font-size: 12pt;
+  line-height: 1.5;
   color: #0303AB
 }
 p2 {

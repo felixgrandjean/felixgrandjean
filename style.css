@@ -28,3 +28,6 @@ img {
   width: 100%;
   height: auto;
 }
+body {
+  cursor: url('custom-cursor.png'), auto;
+}

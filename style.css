@@ -16,7 +16,7 @@ header img {
 
 h1 {
   font-family: Garamond, serif;
-  font-size: 16pt;
+  font-size: 18pt;
   line-height: 2;
   color: #0303AB
 }
@@ -33,7 +33,7 @@ p2 {
   color: #0303AB
 
 img {
-  width: 50%;
+  width: 40%;
   height: auto;
 }
 /* Import custom cursor image */

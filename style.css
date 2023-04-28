@@ -37,8 +37,8 @@ body {
   font-family: Arial, sans-serif;
   font-size: 12pt;
   line-height: 1;
-  color: #0303AB
-  text-decoration: italic;
+  color: #ff6600
+  text-decoration: underline;
 }
 
 a:hover {

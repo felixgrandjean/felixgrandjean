@@ -8,21 +8,21 @@
 }
 
 h1 {
-  font-family: Helvetica Neue, sans-serif;
-  font-size: 14pt;
+  font-family: Garamond, serif;
+  font-size: 16pt;
   color: #0303AB
 }
 
 p {
-  font-family: Garamond, serif;
+  font-family: Arial, sans-serif;
   font-size: 12pt;
   color: #0303AB
 }
 p2 {
-  font-family: Garamond, serif; bold
+  font-family: Arial, sans-serif; italic
   font-size: 12pt;
   color: #0303AB
-}
+
 
 img {
   width: 100%;
